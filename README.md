@@ -16,7 +16,7 @@
 </td>
 <td><a href="mailto:jean.2001369@gmail.com" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/DavidsonFG/jean2001369/jean2001369/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/wpp2.png" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.instagram.com/jeann_lucas12/" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
