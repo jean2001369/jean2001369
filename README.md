@@ -12,19 +12,19 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/jean2001369" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/jean2001369" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/github2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:jean.2001369@gmail.com" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:jean.2001369@gmail.com" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531992259540" target="_blank"><img src="https://github.com/DavidsonFG/jean2001369/jean2001369/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/jeann_lucas12/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/jeann_lucas12/" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/jean-lucas-63537119a/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/jean-lucas-63537119a/" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discord.gg/ZtuBZMtB" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discord.gg/ZtuBZMtB" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/davidsonfg/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/davidsonfg/" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+<img height="20" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 <div align="justify">
 Tenho sólida experiência em programação com C, Java e JavaScript, além de trabalhar com bancos de dados MySQL e MongoDB. Destaco-me pela eficiência no desenvolvimento em C, pela criação de soluções escaláveis e robustas usando microsserviços em Java com Spring, e pela proficiência em JavaScript para construção de aplicações web modernas e interativas.
 
@@ -52,10 +52,10 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
 <div align="justify">
 <p>
@@ -67,7 +67,6 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
 - :soccer: &nbsp; Sou um verdadeiro fã de esportes como futebol.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:jean.2001369@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/davidsonfg/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
 </p>
 </div>
 </div>
@@ -76,47 +75,47 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/python.png?raw=true"/></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/c.png?raw=true"/></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg"/></a></code> 
+<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/cpp.svg"/></a></code> 
 &nbsp;
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/java.png"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/java.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/html.svg"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/html.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/css.svg"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/css.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/js.png"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/js.png"/></a></code>
 &nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/react.png"/></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/react.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/mysql.png"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/mysql.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/mongodb.png"/></a></code>
+<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/mongodb.png"/></a></code>
 &nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dbeaver.png"/></a></code>
+<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/dbeaver.png"/></a></code>
 &nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/nodejs.png"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/nodejs.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/docker.png"/></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/docker.png"/></a></code>
 &nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/aws.png"/></a></code>
+<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/aws.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/postman.png"/></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/postman.png"/></a></code>
 &nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/insomnia.png"/></a></code>
+<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/insomnia.png"/></a></code>
 &nbsp; 
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/git.png"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/git.png"/></a></code>
 &nbsp; 
-<code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/gitlab.png"/></a></code>
+<code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/gitlab.png"/></a></code>
 &nbsp; 
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/intellij.png"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/intellij.png"/></a></code>
 &nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/vs.png"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/jean2001369/jean2001369/blob/main/img/vs.png"/></a></code>
 </div>
 
 -----
@@ -135,7 +134,7 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/jean2001369"/> Davidson's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/jean2001369"/> Jean Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=315wxb3gkvxvtiqzvc2u7zdejq6a" alt="Data Card for Spotify">
 </details>
 </div>
@@ -156,7 +155,7 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
  <td align="center" colspan="1"></td>
 </tr> 
 <tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
+<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.comjean2001369/jean2001369/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
 </tr>
 <tr>
  <td align="center" colspan="1"></td>
@@ -205,5 +204,5 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
 -----
 
 <div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/footer-gray.gif?raw=true"/>
+<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/jean2001369/jean2001369/blob/main/img/footer-gray.gif?raw=true"/>
 </div>
