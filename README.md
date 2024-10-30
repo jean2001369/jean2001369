@@ -1,4 +1,3 @@
-
 <div>
 <img align="center" alt="Header" src="https://github.com/jean2001369/jean2001369/blob/main/img/jean_git.png"/>
 </div>
@@ -122,10 +121,10 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
 <img height="20" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/github_gif.gif?raw=true"/>GitHub Stats:
 
 <div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidsonFG&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DavidsonFG&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DavidsonFG&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidsonFG&theme=github_dark"/>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jean2001369&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jean2001369&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jean2001369&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jean2001369&theme=github_dark"/>
 </div>
 
 -----
@@ -139,9 +138,9 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
 </div>
 <div>
 <!--- <a href="https://twitter.com/DavidsonFG" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=DavidsonFG"/></a> -->
-<a href="https://www.last.fm/user/jean_lucas12" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=davidsonfg&width=400"/></a>
+<a href="https://www.last.fm/user/jean_lucas12" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=jean_lucas12&width=400"/></a>
 <div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=315wxb3gkvxvtiqzvc2u7zdejq6a&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=31n7vsjmlipvrldkwmmwix47apzqcover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=315wxb3gkvxvtiqzvc2u7zdejq6a&count=10"/>
 </div>
 </div>
@@ -154,7 +153,7 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
  <td align="center" colspan="1"></td>
 </tr> 
 <tr>
-<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.comjean2001369/jean2001369/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
+<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/jean2001369/jean2001369/blob/main/img/linkedin2.gif?raw=true" width="70px" height="70px"/></a></td>
 </tr>
 <tr>
  <td align="center" colspan="1"></td>
