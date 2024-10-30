@@ -44,13 +44,16 @@ Tenho sólida experiência em programação com C, Java e JavaScript, além de t
 Além da minha experiência em desenvolvimento, já atuei como suporte técnico, oferecendo assistência qualificada aos usuários. Tenho habilidades para resolver problemas relacionados a redes, configurações de sistemas operacionais Linux e Windows, e sou competente na instalação e manutenção de software e hardware. Também possuo experiência com sistemas específicos como SAP, WMS, Fluig e Tiflux.
 
 Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Vamos construir algo incrível juntos?
+
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/6d43584a-091d-4ffb-9781-4b6ab5670e9f)
+
 </div>
 
 -----
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/dev.gif?raw=true" width="250px" height="250px"/>
 </div>
 
 <img height="20" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
