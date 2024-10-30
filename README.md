@@ -1,4 +1,4 @@
------
+![image](https://github.com/user-attachments/assets/82b0917e-335b-4803-8c0e-fec3e8a46f50)-----
 
 <div>
 <img align="center" alt="Header" src="https://github.com/jean2001369/jean2001369/blob/main/img/jean_git.png"/>
@@ -134,7 +134,7 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/jean2001369"/> Jean Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/spotify.gif?raw=true"/> Jean Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=315wxb3gkvxvtiqzvc2u7zdejq6a" alt="Data Card for Spotify">
 </details>
 </div>
