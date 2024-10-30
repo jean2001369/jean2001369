@@ -120,7 +120,7 @@ Sou apaixonado por tecnologia e estou constantemente em busca de novos desafios 
 
 -----
 
-<img height="20" alt="GIF" src="https://www.linkedin.com/in/jean-lucas-63537119a/"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/jean2001369/jean2001369/blob/main/img/github_gif.gif?raw=true"/>GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidsonFG&theme=github_dark"/>
